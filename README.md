@@ -41,4 +41,4 @@
 
 ### Github Stats 🔢:
 [![Minmin423's GitHub stats](https://github-readme-stats.vercel.app/api?username=minmin423)](https://github.com/minmin423/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minmin423)](https://github.com/minmin423/)
