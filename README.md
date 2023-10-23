@@ -1,4 +1,4 @@
-### Tech Stack 🖥️
+### Tech Stack 🖥:
 
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
@@ -18,14 +18,21 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-### About Me 🤓
+<br/><br/>
+
+### About Me 🤓:
 
 - Aspiring Full Stack Web Developer
 - Currently enrolled a 4th year student in Baliuag University
 - Currently working as an intern in Intelliseven Technology Solutions Inc.
 
-<a target="blank" href="https://ph.linkedin.com/in/michael-angelo-dela-cruz-79b868281"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/></a>
+<a href="https://ph.linkedin.com/in/michael-angelo-dela-cruz-79b868281" target="_blank">
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/>
+</a>
 
-### Github Stats 🔢
+<br/><br/>
+
+
+### Github Stats 🔢:
 [![Minmin423's GitHub stats](https://github-readme-stats.vercel.app/api?username=minmin423)](https://github.com/minmin423/)
 
