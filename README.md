@@ -1,6 +1,32 @@
 <!-- [![Minmin423's GitHub stats](https://github-readme-stats.vercel.app/api?username=minmin423)](https://github.com/minmin423/) -->
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjkwMCIgdmlld0JveD0iMCAwIDkwMCA5MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik01MDQuOTA4IDc1MEg4MzkuNDc2Qzg1MC4xMDMgNzUwLjAwMSA4NjAuNTQyIDc0Ny4yMjkgODY5Ljc0NSA3NDEuOTYzQzg3OC45NDggNzM2LjY5NiA4ODYuNTg5IDcyOS4xMjEgODkxLjkgNzE5Ljk5OUM4OTcuMjExIDcxMC44NzYgOTAwLjAwNSA3MDAuNTI5IDkwMCA2ODkuOTk3Qzg5OS45OTUgNjc5LjQ2NSA4OTcuMTkzIDY2OS4xMiA4OTEuODczIDY2MC4wMDJMNjY3LjE4NyAyNzQuMjg5QzY2MS44NzYgMjY1LjE2OSA2NTQuMjM3IDI1Ny41OTUgNjQ1LjAzNiAyNTIuMzI5QzYzNS44MzUgMjQ3LjA2NCA2MjUuMzk4IDI0NC4yOTEgNjE0Ljc3MyAyNDQuMjkxQzYwNC4xNDkgMjQ0LjI5MSA1OTMuNzExIDI0Ny4wNjQgNTg0LjUxMSAyNTIuMzI5QzU3NS4zMSAyNTcuNTk1IDU2Ny42NyAyNjUuMTY5IDU2Mi4zNiAyNzQuMjg5TDUwNC45MDggMzcyLjk3OUwzOTIuNTgxIDE3OS45OTNDMzg3LjI2NiAxNzAuODc0IDM3OS42MjMgMTYzLjMwMSAzNzAuNDIgMTU4LjAzNkMzNjEuMjE2IDE1Mi43NzIgMzUwLjc3NyAxNTAgMzQwLjE1MSAxNTBDMzI5LjUyNSAxNTAgMzE5LjA4NiAxNTIuNzcyIDMwOS44ODMgMTU4LjAzNkMzMDAuNjc5IDE2My4zMDEgMjkzLjAzNiAxNzAuODc0IDI4Ny43MjEgMTc5Ljk5M0w4LjEyNjQ5IDY2MC4wMDJDMi44MDc0MyA2NjkuMTIgMC4wMDQ2MjkzNSA2NzkuNDY1IDUuNzI5NzhlLTA2IDY4OS45OTdDLTAuMDA0NjE3ODkgNzAwLjUyOSAyLjc4OTA5IDcxMC44NzYgOC4xMDAxNSA3MTkuOTk5QzEzLjQxMTIgNzI5LjEyMSAyMS4wNTIzIDczNi42OTYgMzAuMjU1IDc0MS45NjNDMzkuNDU3NiA3NDcuMjI5IDQ5Ljg5NzMgNzUwLjAwMSA2MC41MjQgNzUwSDI3MC41MzhDMzUzLjc0OCA3NTAgNDE1LjExMiA3MTMuNzc1IDQ1Ny4zMzYgNjQzLjEwMUw1NTkuODQ5IDQ2Ny4xNDVMNjE0Ljc1NyAzNzIuOTc5TDc3OS41NDcgNjU1LjgzNEg1NTkuODQ5TDUwNC45MDggNzUwWk0yNjcuMTE0IDY1NS43MzdMMTIwLjU1MSA2NTUuNzA0TDM0MC4yNDkgMjc4LjU4Nkw0NDkuODcgNDY3LjE0NUwzNzYuNDc0IDU5My4xNzVDMzQ4LjQzMyA2MzkuMDMgMzE2LjU3NyA2NTUuNzM3IDI2Ny4xMTQgNjU1LjczN1oiIGZpbGw9IiMwMERDODIiLz4KPC9zdmc%2BCg%3D%3D%2CNuxt%2C%3Bdata%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjkwMCIgdmlld0JveD0iMCAwIDkwMCA5MDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik01MDQuOTA4IDc1MEg4MzkuNDc2Qzg1MC4xMDMgNzUwLjAwMSA4NjAuNTQyIDc0Ny4yMjkgODY5Ljc0NSA3NDEuOTYzQzg3OC45NDggNzM2LjY5NiA4ODYuNTg5IDcyOS4xMjEgODkxLjkgNzE5Ljk5OUM4OTcuMjExIDcxMC44NzYgOTAwLjAwNSA3MDAuNTI5IDkwMCA2ODkuOTk3Qzg5OS45OTUgNjc5LjQ2NSA4OTcuMTkzIDY2OS4xMiA4OTEuODczIDY2MC4wMDJMNjY3LjE4NyAyNzQuMjg5QzY2MS44NzYgMjY1LjE2OSA2NTQuMjM3IDI1Ny41OTUgNjQ1LjAzNiAyNTIuMzI5QzYzNS44MzUgMjQ3LjA2NCA2MjUuMzk4IDI0NC4yOTEgNjE0Ljc3MyAyNDQuMjkxQzYwNC4xNDkgMjQ0LjI5MSA1OTMuNzExIDI0Ny4wNjQgNTg0LjUxMSAyNTIuMzI5QzU3NS4zMSAyNTcuNTk1IDU2Ny42NyAyNjUuMTY5IDU2Mi4zNiAyNzQuMjg5TDUwNC45MDggMzcyLjk3OUwzOTIuNTgxIDE3OS45OTNDMzg3LjI2NiAxNzAuODc0IDM3OS42MjMgMTYzLjMwMSAzNzAuNDIgMTU4LjAzNkMzNjEuMjE2IDE1Mi43NzIgMzUwLjc3NyAxNTAgMzQwLjE1MSAxNTBDMzI5LjUyNSAxNTAgMzE5LjA4NiAxNTIuNzcyIDMwOS44ODMgMTU4LjAzNkMzMDAuNjc5IDE2My4zMDEgMjkzLjAzNiAxNzAuODc0IDI4Ny43MjEgMTc5Ljk5M0w4LjEyNjQ5IDY2MC4wMDJDMi44MDc0MyA2NjkuMTIgMC4wMDQ2MjkzNSA2NzkuNDY1IDUuNzI5NzhlLTA2IDY4OS45OTdDLTAuMDA0NjE3ODkgNzAwLjUyOSAyLjc4OTA5IDcxMC44NzYgOC4xMDAxNSA3MTkuOTk5QzEzLjQxMTIgNzI5LjEyMSAyMS4wNTIzIDczNi42OTYgMzAuMjU1IDc0MS45NjNDMzkuNDU3NiA3NDcuMjI5IDQ5Ljg5NzMgNzUwLjAwMSA2MC41MjQgNzUwSDI3MC41MzhDMzUzLjc0OCA3NTAgNDE1LjExMiA3MTMuNzc1IDQ1Ny4zMzYgNjQzLjEwMUw1NTkuODQ5IDQ2Ny4xNDVMNjE0Ljc1NyAzNzIuOTc5TDc3OS41NDcgNjU1LjgzNEg1NTkuODQ5TDUwNC45MDggNzUwWk0yNjcuMTE0IDY1NS43MzdMMTIwLjU1MSA2NTUuNzA0TDM0MC4yNDkgMjc4LjU4Nkw0NDkuODcgNDY3LjE0NUwzNzYuNDc0IDU5My4xNzVDMzQ4LjQzMyA2MzkuMDMgMzE2LjU3NyA2NTUuNzM3IDI2Ny4xMTQgNjU1LjczN1oiIGZpbGw9IiMwMERDODIiLz4KPC9zdmc%2BCg%3D%3D%2Csfadf%2C%3B)
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 ### Hi there 👋
 
