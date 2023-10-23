@@ -15,6 +15,7 @@
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 <hr/>
@@ -31,7 +32,13 @@
 
 <hr/>
 
+### Public Repos 🤓:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minmin423&repo=landing-page)](https://github.com/minmin423/landing-page)
+
+<hr/>
+
+
 ### Github Stats 🔢:
 [![Minmin423's GitHub stats](https://github-readme-stats.vercel.app/api?username=minmin423)](https://github.com/minmin423/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minmin423)](https://github.com/minmin423/)
