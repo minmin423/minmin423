@@ -32,13 +32,13 @@
 
 <hr/>
 
-### Public Repos 🤓:
+### Public Repos 📙:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minmin423&repo=landing-page&theme=nord)](https://github.com/minmin423/landing-page)
 
 <hr/>
 
 
-### Github Stats 🔢:
+### Github Stats 📊:
 [![Minmin423's GitHub stats](https://github-readme-stats.vercel.app/api?username=minmin423&theme=nord)](https://github.com/minmin423/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minmin423&theme=nord&layout=donut)](https://github.com/minmin423/)
