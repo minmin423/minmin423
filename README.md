@@ -42,3 +42,10 @@
 ### Github Stats 🔢:
 [![Minmin423's GitHub stats](https://github-readme-stats.vercel.app/api?username=minmin423&theme=nord)](https://github.com/minmin423/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minmin423&theme=nord&layout=donut)](https://github.com/minmin423/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
