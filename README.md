@@ -44,7 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minmin423&theme=nord&layout=donut)](https://github.com/minmin423/)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=minmin423&theme=nord)](https://github.com/minmin423/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minmin423&theme=nord)](https://github.com/minmin423/" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
