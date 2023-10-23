@@ -18,7 +18,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-<br/><br/>
+<hr/>
 
 ### About Me 🤓:
 
@@ -30,7 +30,7 @@
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/>
 </a>
 
-<br/><br/>
+<hr/>
 
 
 ### Github Stats 🔢:
