@@ -34,9 +34,9 @@
 
 ### About Me 🤓:
 
-- Aspiring Full Stack Web Developer
+- Full Stack Web Developer
 - Currently enrolled as a 4th year student in Baliuag University
-- Currently working as an intern in Intelliseven Technology Solutions Inc.
+- Previously worked as an intern in Intelliseven Technology Solutions Inc.
 
 <a href="https://ph.linkedin.com/in/michael-angelo-dela-cruz-79b868281" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/>
