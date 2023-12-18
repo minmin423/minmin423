@@ -35,7 +35,7 @@
 ### About Me 🤓:
 
 - Full Stack Web Developer
-- Currently enrolled as a 4th year student in Baliuag University
+- Soon-to-be graduate with a BSIT major in Web and Mobile Application Development degree in Baliuag University
 - Previously worked as an intern in Intelliseven Technology Solutions Inc.
 
 <a href="https://ph.linkedin.com/in/michael-angelo-dela-cruz-79b868281" target="_blank">
