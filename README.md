@@ -49,7 +49,7 @@
 - BSIT major in Web and Mobile Application Development degree holder in Baliuag University
 - Previously worked as an intern in Intelliseven Technology Solutions Inc.
 - Currently studying ASP.Net Core (C#).
-- See my portfolio I made using React.js <a href="minmin423.github.io/portfolio" target="_blank">here.</a>
+- See my portfolio I made using React.js <a href="https://minmin423.github.io/portfolio" target="_blank">here.</a>
 
 <a href="https://ph.linkedin.com/in/michael-angelo-dela-cruz-79b868281" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/>
