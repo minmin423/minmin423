@@ -46,7 +46,7 @@
 
 ### Public Repos 📙:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minmin423&repo=landing-page&theme=nord)](https://github.com/minmin423/landing-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minmin423&repo=portfolio&theme=nord)](https://github.com/minmin423/portfolio)
 
 <hr/>
 
