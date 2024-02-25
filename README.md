@@ -47,7 +47,7 @@
 
 - Full Stack Web Developer
 - BSIT major in Web and Mobile Application Development degree holder in Baliuag University
-- Previously worked as an intern in Intelliseven Technology Solutions Inc.
+- Previously worked as an intern in Intelliseven Technology Solutions Inc. at Quezon City.
 - Currently studying ASP.NET Core (C#).
 - See my portfolio I made using React.js <a href="https://minmin423.github.io/portfolio" target="_blank">here.</a>
 
