@@ -12,8 +12,6 @@
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-<br/>
-
 #### Back-End 👨‍💻:
  <p>
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff&style=for-the-badge" />
@@ -22,8 +20,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-  <br/>
 
 #### Learned in School 📚:
 <p>
