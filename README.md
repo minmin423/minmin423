@@ -6,7 +6,7 @@ and an intern at Intelliseven Technology Solutions Inc.
 
 - 🎓 BSIT, Web and Mobile Application Development, Baliuag University
 - 🌐 Portfolio: [minmin423.github.io/portfolio](https://minmin423.github.io/portfolio) (React)
-- 🌱 Currently learning: _your topic here_
+- 🌱 Currently learning: to be quiet
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/michael-angelo-dela-cruz-79b868281)
 
